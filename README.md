@@ -1,5 +1,4 @@
 # Blog Application API
--------------------------------------------------------------------------------------------------
 This is a Blog Application API built using Spring Boot. The API allows for the creation, retrieval, updating, and deletion of blog posts and comments.
 
 ## Technologies Used
